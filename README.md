@@ -1,10 +1,7 @@
 # Présentation
-Application en Java de gestion d'un cabinet médical.
+Un jeu (Piere - Papier - Ciseaux) avec la machine
 
 # Technologies 
- Java + MySQL + NetBeans
+HTML/CSS/JS
 
-# Pré-réquis
-- Avoir importer toutes les classes Java dans un projet Java
-- Recréer la base de données "hsmd" décrite dans le fichier hsmd.sql dans un serveur local MySQL.
 
