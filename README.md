@@ -1,7 +1,7 @@
-# Présentation
+# Présentation :
 Un jeu (Piere - Papier - Ciseaux) avec la machine
 
-# Technologies 
+# Technologies :
 HTML/CSS/JS
 
 
